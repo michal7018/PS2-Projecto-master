@@ -1,0 +1,17 @@
+.btn {
+    width: 100%;
+}
+
+input {
+    text-align: center;
+}
+
+.row {
+    padding: 10px;
+}
+
+#error {
+    display: none;
+    color: #fff;
+    background-color: red;
+}
