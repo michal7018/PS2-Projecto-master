@@ -88,7 +88,7 @@ namespace PS2_prodzekt
 
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "SERVER=ps2db195000.database.windows.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
+                conn.ConnectionString = "SERVER=wlochu321.azurewebsites.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
 
                 conn.Open();
 
@@ -120,7 +120,7 @@ namespace PS2_prodzekt
 
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "SERVER=ps2db195000.database.windows.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
+                conn.ConnectionString = "SERVER=wlochu321.azurewebsites.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
 
                 conn.Open();
 
@@ -174,7 +174,7 @@ namespace PS2_prodzekt
 
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "SERVER=ps2db195000.database.windows.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
+                conn.ConnectionString = "SERVER=wlochu321.azurewebsites.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
 
                 conn.Open();
 
@@ -229,7 +229,7 @@ namespace PS2_prodzekt
 
             using (SqlConnection conn = new SqlConnection())
             {
-                conn.ConnectionString = "SERVER=ps2db195000.database.windows.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
+                conn.ConnectionString = "SERVER=wlochu321.azurewebsites.net;DATABASE=mk195000;USER ID=michal7018;PASSWORD=Michal7011;";
 
                 conn.Open();
 
